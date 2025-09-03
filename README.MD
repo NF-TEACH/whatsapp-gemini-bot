@@ -23,7 +23,7 @@
 
 1.  **שכפל את המאגר (או הורד את הקבצים):**
     ```bash
-    git clone <קישור_למאגר>
+    git clone https://github.com/NF-TEACH/whatsapp-gemini-bot.git
     cd whatsapp-gemini-bot
     ```
 
